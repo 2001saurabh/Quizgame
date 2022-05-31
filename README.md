@@ -17,6 +17,10 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
+![1](https://user-images.githubusercontent.com/64681134/171142565-7b8e9700-dda5-4110-b64f-096b46d71a67.jpg)
+![2](https://user-images.githubusercontent.com/64681134/171142594-fe5ad08a-16f2-4283-8607-0956e8c72b01.jpg)
+![3](https://user-images.githubusercontent.com/64681134/171142625-765c6c1d-5f23-4ff8-a796-d9241761d4b5.jpg)
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
